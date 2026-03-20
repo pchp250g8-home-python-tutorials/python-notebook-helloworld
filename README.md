@@ -1,4 +1,4 @@
-HelloWorld. Python tutorials. Jupyter Notebook. Simple Input/Output. 
+HelloWorld. Python tutorials. Jupyter Notebook. Simple Input/Output.
 To create a Jupyter notebook, follow these steps:
   1. Launch terminal.
   2. Select the location to create the Jupyter notebook (use the cd, mkdir commands).
